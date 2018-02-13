@@ -29,4 +29,4 @@ These are the base colors: #2e3440 #3b4252 #434c5e #4c566a
 
 ## License
 
-The MIT License (MIT) - see [`LICENSE.md`](LICENSE.md) for more details
+The MIT License (MIT) - see [`LICENSE`](LICENSE) for more details
