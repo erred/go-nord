@@ -19,7 +19,8 @@ import (
 )
 
 func main() {
-        fmt.Printf("These are the base colors: %v %v %v %v", nord.Nord0, nord.Nord1, nord.Nord2, nord.Nord3)
+        fmt.Printf("These are the base colors: %v %v %v %v", 
+        nord.Nord0, nord.Nord1, nord.Nord2, nord.Nord3)
 }
 ```
 #### Output
