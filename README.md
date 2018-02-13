@@ -1,4 +1,4 @@
-# go-nord [![GoDoc](https://godoc.org/github.com/seankhliao/go-nord-color?status.svg)](https://godoc.org/github.com/seankhliao/go-nord-color) [![Build Status](https://img.shields.io/travis/seankhliao/go-nord-color.svg?style=flat-square)](https://travis-ci.org/seankhliao/go-nord-color)
+# go-nord [![GoDoc](https://godoc.org/github.com/seankhliao/go-nord?status.svg)](https://godoc.org/github.com/seankhliao/go-nord) [![Build Status](https://img.shields.io/travis/seankhliao/go-nord.svg?style=flat-square)](https://travis-ci.org/seankhliao/go-nord) [![Go Report Card](https://goreportcard.com/badge/github.com/seankhliao/go-nord)](https://goreportcard.com/report/github.com/seankhliao/go-nord)
 
 nord provides the [nord](https://github.com/arcticicestudio/nord) colors for use in Go
 
